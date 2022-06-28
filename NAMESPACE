@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "mahalanobis", "rgamma")
+importFrom("mvtnorm", "rmvt","dmvt","GenzBretz")
+
+
